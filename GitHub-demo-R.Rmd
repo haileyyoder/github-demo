@@ -1,5 +1,5 @@
 ---
-title: "Github-demo"
+title: "Learning Git Hub & RStudio integration"
 output: html_document
 date: "2026-10-20"
 ---
